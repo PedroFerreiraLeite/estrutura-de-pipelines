@@ -1,0 +1,24 @@
+{
+  "name": "estrutura-o-de-pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroFerreiraLeite/estrutura-o-de-pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PedroFerreiraLeite/estrutura-o-de-pipelines/issues"
+  },
+  "homepage": "https://github.com/PedroFerreiraLeite/estrutura-o-de-pipelines#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
